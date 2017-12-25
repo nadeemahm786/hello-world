@@ -4,5 +4,4 @@ public class sample {
 	{
 		System.out.println("Hello world.....");
 	}
-
 }
